@@ -13,8 +13,8 @@
 <br>Чтобы бот работал, серверу потребуется модуль языка Python. Мы рассматриваем бота, написанного на третьей версии языка, поэтому нам нужно установить python3.<br>
 Для этого введем в консоль сервера следующие команды:<br><br>
 
-    sudo apt —reinstall install python3 -y  
-    sudo apt —reinstall install python3-pip -y
+    sudo apt --reinstall install python3 -y  
+    sudo apt --reinstall install python3-pip -y
 
 
 Не забудем и про библиотеки. Для установки введем команду:
